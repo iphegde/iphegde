@@ -6,7 +6,7 @@ Welcome to my project portfolio profile! I'm a dedicated professional with exten
 In addition to my deep expertise in SAP, I am also a passionate Generative AI Engineer with a strong interest in Large Languag Models (LLMs), Deep Learning, Natural Language Processing (NLP), and Machine Learning (ML). My primary programming language is Python. I enjoy working on innovative projects that push the boundaries of AI while leveraging my comprehensive knowledge of SAP systems.<br><br>With a strong background in AI and a focus on generative models, I am dedicated to creating intelligent systems that can understand and generate human-like text, images, and other forms of content. My work involves the application of cutting-edge deep learning techniques to solve complex problems in various domains.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iphegde)<br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iphegde)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@visionventure365)<br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iphegde) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iphegde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@visionventure365)
 
 # 💻 Tech Stack:
  
